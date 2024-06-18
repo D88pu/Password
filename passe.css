@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.input-box{
+    background: #fff;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    display:flex;
+    align-items: center;
+}
+
+.input-box input{
+    align-items: center;
+    justify-content: space-between;
+    font-size: 23px;
+    outline: none;
+    border: 0;
+    padding: 10px 0;
+    color: #555;
+}
+
+.input-box i{
+    width: 85px;
+    margin-left: 193px;
+    cursor: pointer;
+}
